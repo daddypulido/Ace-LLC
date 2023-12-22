@@ -1,0 +1,26 @@
+h1, h4 {
+    text-align: center;
+    padding-top: 30px;
+}
+  
+html body {
+    background-color: rgb(213, 231, 230);
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.paragraph {
+  width: 80%;
+  padding-top: 20px;
+ 
+
+}
+
+.subtitle{
+
+  color: rgb(194, 67, 9);
+}
+
