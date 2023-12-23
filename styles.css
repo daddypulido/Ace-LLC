@@ -1,6 +1,7 @@
 h1, h4 {
     text-align: center;
     padding-top: 30px;
+ 
 }
   
 html body {
@@ -20,7 +21,25 @@ html body {
 }
 
 .subtitle{
-
   color: rgb(194, 67, 9);
 }
+
+.main-container {
+display: flex;
+justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+  align-items: center;
+  background-color: rgba(5, 65, 5, 0.2);
+  padding: 5vh;
+  border-radius: 20px;
+
+ 
+}
+
+
 
