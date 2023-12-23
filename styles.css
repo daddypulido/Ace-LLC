@@ -40,6 +40,14 @@ form {
 
  
 }
+label {
+  font-weight: 300;
+  font-size: larger;
+}
 
+input {
+  height: 3vh;
+  border-radius: 10px;
+}
 
 
