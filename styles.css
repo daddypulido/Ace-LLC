@@ -58,4 +58,11 @@ input {
   align-items: center;
 }
 
+.navbar, .dropdown-item   {
+  background-color: 	#722F37;
+}
 
+ul.dropdown-menu {
+ background-color: transparent;
+
+}
