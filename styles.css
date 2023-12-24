@@ -5,7 +5,7 @@ h1, h4 {
 }
   
 html body {
-    background-color: rgb(213, 231, 230);
+    background-color: #014421;
 
 }
 .container {
@@ -65,4 +65,13 @@ input {
 ul.dropdown-menu {
  background-color: transparent;
 
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+}
+
+.ammoniaImg {
+  width: 550px;
 }
