@@ -31,11 +31,12 @@ justify-content: center;
 }
 
 form {
+
   display: flex;
   flex-direction: column;
  justify-content: center;
   align-items: center;
-  background-color: rgba(5, 65, 5, 0.2);
+  background-color: #722F37;
   padding: 5vh;
   border-radius: 20px;
 
@@ -73,5 +74,57 @@ ul.dropdown-menu {
 }
 
 .ammoniaImg {
-  width: 550px;
+  width: 60%;
+}
+
+@font-face
+{
+    font-family:'Old English';
+    src:url('OldEnglishFive.ttf');
+}
+
+.ace {
+  font-family: 'Old English';
+
+}
+
+.form-container {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+form {
+  gap: 15px;
+}
+
+.callnow {
+  background-color: #722F37;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #722F37;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  font-family: 'Old English';
+}
+
+.linklogo {
+  height: 50px;
+  width: auto;
 }
