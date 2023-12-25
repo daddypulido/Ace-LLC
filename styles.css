@@ -101,6 +101,7 @@ form {
   padding: 10px;
   border: none;
   border-radius: 5px;
+  margin-bottom: 10px;
 }
 
 
@@ -127,4 +128,12 @@ footer {
 .linklogo {
   height: 50px;
   width: auto;
+}
+.cardIMg {
+  width: 50px;
+  height: auto;
+}
+.random {
+  display: flex;
+  justify-content: center;
 }
